@@ -1,0 +1,27 @@
+.content {
+    width: 856px;
+    margin: 100px auto;
+}
+
+.profile {
+    display: flex;
+    gap: 115px;
+}
+
+.mainInfo {
+    gap: 40px;
+}
+
+button {
+    width: 208px;
+    height: 47px;
+    background-color: #ff6464;
+    color: #fff;
+    border: none;
+}
+
+/* @media(max-width: 375px) {
+    .profile {
+        flex-direction: column;
+    }
+} */
