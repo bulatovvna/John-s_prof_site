@@ -8,6 +8,11 @@
     gap: 115px;
 }
 
+.profileImg {
+    width: 243px;
+    height: 243px;
+}
+
 .mainInfo {
     gap: 40px;
 }

@@ -1,0 +1,22 @@
+.content {
+    width: 856px;
+    margin: 90px auto;
+}
+
+.blogH1 {
+    color: #21243D;
+    margin-bottom: 55px;
+}
+
+.blog {
+    border-bottom: 1px solid #E0E0E0;
+    margin-top: 30px;
+}
+
+.darkBlue  {
+    color: #21243D;
+}
+
+span {
+    color: #8695A4;
+}

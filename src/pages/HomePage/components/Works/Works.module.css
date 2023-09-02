@@ -1,0 +1,44 @@
+.content {
+    width: 856px;
+    margin: 15px auto;
+}
+
+.work {
+    display: flex;
+    gap: 20px;
+    align-items: flex-end;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #E0E0E0;
+    margin-top: 30px;
+}
+
+.img {
+    width: 246px;
+    height: 180px;
+    object-fit: cover;
+}
+
+.title {
+    font-size: 30px;
+    color: #21243D;
+}
+
+.yearNtags {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+
+.year {
+    width: 62px;
+    height: 25px;
+    font-size: 18px;
+    background-color: #142850;
+    color: #fff;
+    border-radius: 16px;
+}
+
+.tags {
+    font-size: 20px;
+    color: #8695A4;
+}
