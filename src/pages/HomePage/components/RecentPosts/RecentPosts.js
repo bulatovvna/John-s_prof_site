@@ -6,7 +6,7 @@ function RecentPosts() {
             <div className={s.content}>
                 <div className={s.recent_menu}>
                     <p className={s.recent_posts_p}>Recent posts</p>
-                    <p className={s.view}>View all</p>
+                    {/* <p className={s.view}>View all</p> */}
                 </div>
                 <div className={s.posts}>
                     <div className={s.post}>

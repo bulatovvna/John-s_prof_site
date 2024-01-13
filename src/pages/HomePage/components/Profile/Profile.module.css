@@ -17,16 +17,15 @@
     gap: 40px;
 }
 
-button {
-    width: 208px;
-    height: 47px;
+.download_link {
+    padding: 20px 40px;
     background-color: #ff6464;
     color: #fff;
     border: none;
+    text-decoration: none;
+    cursor: pointer;
 }
 
-/* @media(max-width: 375px) {
-    .profile {
-        flex-direction: column;
-    }
-} */
+.download_link:hover {
+    box-shadow: 0 2px 4px gray;
+}

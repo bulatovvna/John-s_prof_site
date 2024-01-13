@@ -10,7 +10,7 @@ function Profile() {
                 </div>
                 <img src="./media/john.png" alt="john" className={s.profileImg}/>
             </div>
-            <button>Download Resume</button>
+            <a href="https://cdn-images.livecareer.co.uk/pages/free_cv_templates_lcuk_11.jpg" download className={s.download_link}>Download Resume</a>
         </div>
     );
 }
