@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/John-s_prof_site/static/css/main.3085de7a.css",
+    "main.js": "/John-s_prof_site/static/js/main.11e1113f.js",
+    "index.html": "/John-s_prof_site/index.html",
+    "main.3085de7a.css.map": "/John-s_prof_site/static/css/main.3085de7a.css.map",
+    "main.11e1113f.js.map": "/John-s_prof_site/static/js/main.11e1113f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3085de7a.css",
+    "static/js/main.11e1113f.js"
+  ]
+}
